@@ -16,4 +16,5 @@
 | causalENhanesDRL.py | Counterfactual Inference on NHANES |
 | dataMerge.R | TCGA-LUAD data processing |
 | TCGA-LUAD.ipynb | Ancestor identification algorithm to TCGA-LUAD |
+| MR_NHANES.R | Mendelian randomization for causality of triglycerides and fasting glucose |
 
